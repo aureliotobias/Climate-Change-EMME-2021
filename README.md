@@ -3,4 +3,16 @@ Includes the files used for the pre-conference workshop on **time-series regress
 
 ---
 
+#### R scripts
+
+Includes the **dataset** and **R script** files to replicate the practical examples used in the slides.
+   
+---
+
+#### slides
+
+Includes the **slides** and the list of useful **references** on times-series regression.
+
+---
+
 ### work in progress
