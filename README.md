@@ -11,7 +11,7 @@ Includes the **dataset** and **R script** files to replicate the practical examp
 
 #### slides
 
-Includes the **slides** and the list of useful **references** on times-series regression.
+Includes the **slides** and a list of useful **references** on times-series regression.
 
 ---
 
