@@ -11,4 +11,4 @@ Includes the **dataset**, **R script** files and **R functions** to replicate th
 
 #### slides
 
-Includes the **slides** for the workshop.
+Includes the set of **slides** for the workshop.
