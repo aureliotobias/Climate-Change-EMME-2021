@@ -1,9 +1,3 @@
-#### R scripts
-
-This folder includes the **dataset**, **R script** files and **R functions** to replicate the practical examples showed in the slides.
-
---
-
 * Dataset 
   * **londondataset.csv** - Time-seres dataset example for London, UK, 2002-2006.
 
